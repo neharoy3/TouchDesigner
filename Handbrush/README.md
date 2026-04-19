@@ -29,8 +29,9 @@ This is my first project in TouchDesigner, developed to explore the intersection
 Handbrush/
 ├── assets/         # Project textures and background images
 ├── toxes/          # [MANUALLY ADD THESE FILES HERE]
-│   ├── MediaPipe.tox
-│   └── ClampMath.tox
+│   ├── clamp_math.tox
+│   ├── hand_tracking.tox
+│   └── MediaPipe.tox
 ├── handbrush.toe   # Main project file
 └── README.md       # Project documentation
 ```
