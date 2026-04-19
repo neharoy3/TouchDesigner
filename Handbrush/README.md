@@ -19,16 +19,18 @@ This is my first project in TouchDesigner, developed to explore the intersection
 
 📌[Watercolor Hand Tracking Brush in TouchDesigner Tutorial](https://youtu.be/IATX3biLoZg) by Torin Blankensmith
 
-📌[Clamp Math Component](https://www.patreon.com/posts/clamp-math-tox-123882886)
+📌Download [Clamp Math Component](https://www.patreon.com/posts/clamp-math-tox-123882886)
 
-📌[MediaPipe Plugin for TouchDesigner](https://github.com/torinmb/mediapipe-touchdesigner)
+📌Download [MediaPipe Plugin for TouchDesigner](https://github.com/torinmb/mediapipe-touchdesigner)
 
 ## 📂 File Structure
 
 ```text
 Handbrush/
 ├── assets/         # Project textures and background images
-├── toxes/          # External .tox components (MediaPipe, Clamp Math)
+├── toxes/          # [MANUALLY ADD THESE FILES HERE]
+│   ├── MediaPipe.tox
+│   └── ClampMath.tox
 ├── handbrush.toe   # Main project file
 └── README.md       # Project documentation
 ```
