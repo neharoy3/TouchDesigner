@@ -2,6 +2,8 @@
 
 A real-time hand-tracking painting application built in TouchDesigner. This project utilizes MediaPipe for gesture recognition, allowing users to paint on screen using hand movements, pinch gestures to control brush size, and specific gestures to clear the canvas or switch brush textures.
 
+![network setup](./assets/setup.png)
+
 ## 📝 Project Overview
 
 This is my first project in TouchDesigner, developed to explore the intersection of computer vision and interactive art.
@@ -17,11 +19,11 @@ This is my first project in TouchDesigner, developed to explore the intersection
 
 ## 🔗 Sources
 
-📌[Watercolor Hand Tracking Brush in TouchDesigner Tutorial](https://youtu.be/IATX3biLoZg) by Torin Blankensmith
+📌 Tutorial: [Watercolor Hand Tracking Brush in TouchDesigner Tutorial](https://youtu.be/IATX3biLoZg) by Torin Blankensmith
 
-📌Download [Clamp Math Component](https://www.patreon.com/posts/clamp-math-tox-123882886)
+📌 Download [Clamp Math Component](https://www.patreon.com/posts/clamp-math-tox-123882886)
 
-📌Download [MediaPipe Plugin for TouchDesigner](https://github.com/torinmb/mediapipe-touchdesigner)
+📌 Download [MediaPipe Plugin for TouchDesigner](https://github.com/torinmb/mediapipe-touchdesigner)
 
 ## 📂 File Structure
 
