@@ -2,7 +2,7 @@
 
 A real-time hand-tracking painting application built in TouchDesigner. This project utilizes MediaPipe for gesture recognition, allowing users to paint on screen using hand movements, pinch gestures to control brush size, and specific gestures to clear the canvas or switch brush textures.
 
-![network setup](./assets/setup.png)
+![network setup](./Handbrush/assets/setup.png)
 
 ## 📝 Project Overview
 
